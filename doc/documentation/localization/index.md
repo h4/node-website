@@ -24,7 +24,6 @@ localized sites here:
  * [Japan user group](http://nodejs.jp/)
  * [Korea Node.js community](http://nodejskr.org)
  * [Node.js site for Kiwis](http://nodejs.geek.nz/)
- * [Russian blog.](http://nodejs.ru/)
  * [Serbian Node.js community website](http://nodejs.rs/)
  * [Spanish language community](http://nodehispano.com)
  * [Node.js in Spanish](http://www.nodejs.es)
